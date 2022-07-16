@@ -1,5 +1,8 @@
 # Sorting-Visualizer
+Sorting is very useful concept in a real-life scenario. I have tried to make it visualize it.
 
+>Check the Website here:    
+https://sortingvisualizer-new.netlify.app/
 
 # What is Sorting?
 In computer science, a sorting algorithm is an algorithm that puts elements of a list into an order. The most frequently used orders are numerical order and lexicographical order, and either ascending or descending.
